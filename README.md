@@ -1,16 +1,16 @@
-# afterkelas
+# 📚 AfterKelas
 
-A new Flutter project.
+**AfterKelas** is a Flutter app developed as part of our **final programming project while I was at PASUM**.  
+The app is designed to make **tutoring and learning easier** by providing access to **online resources** and **virtual classes** in one place.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 💡 Overview
 
-A few resources to get you started if this is your first Flutter project:
+AfterKelas helps students:
+- Join or host **online tutoring sessions**
+- Access **learning materials and resources**
+- Communicate with tutors and classmates
+- Manage upcoming **study sessions or classes**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
